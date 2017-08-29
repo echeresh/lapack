@@ -1,4 +1,4 @@
-*> \brief <b> CHESV_RK computes the solution to system of linear equations A * X = B for SY matrices</b>
+*> \brief <b> CHESV_RK computes the solution to system of linear equations A * X = B for HE matrices</b>
 *
 *  =========== DOCUMENTATION ===========
 *
